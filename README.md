@@ -5,5 +5,5 @@ This model is evaluated with turing test from google forms. <br>
 Python's tkinter library is used to create the GUI. <br>
 Below is the preview of the application <br>
 
-!(https://github.com/halimkevin/PoemGenerator/blob/main/preview.png)
+![preview](https://github.com/halimkevin/PoemGenerator/blob/main/preview.png)
 
